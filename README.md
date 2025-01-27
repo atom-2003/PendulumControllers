@@ -1,5 +1,5 @@
 ## Objective
-Understand various control strategy by performing them with a cart-pole environment, simple yet a bit difficult control target
+Understand various control strategy by performing them with a cart-pole environment; classic, simple yet a bit difficult to control
 
 ## Control Strategies included
 - state feedback
@@ -8,4 +8,13 @@ Understand various control strategy by performing them with a cart-pole environm
 - predictive functional control
 - reinforcement learning (PPO)
 
-More strategies will be added with future commit
+More strategies will be added on future commit.
+
+## Prerequisities
+- Python 3.11
+- Pytorch
+- scipy
+- numpy
+- gymnasium\[mujoco\]
+- stable-baslines3
+- cvxpy (will be neccessary soon)
